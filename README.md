@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Julian van der Horst👋
+I'm a second year computing science student at the Radboud University. I really enjoy making different projects, ranging from online drinking games to well... online drinking games.
 
 <!--
 **Gulianrdgd/Gulianrdgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
