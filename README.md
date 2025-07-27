@@ -1,7 +1,7 @@
 ### Hi, I'm Julian van der Horst👋
 I am a senior full-stack software engineer and with my background in cybersecurity, I now focus on writing privacy-friendly and secure software.
 
-Before I did the right thing, I did the fun thing and made all sorts of websites that me and my friends used to have some fun online.
+Before I did the right thing, I did the fun thing. During covid I made all sorts of websites that me and my friends used to have some fun online.
 
 <!--
 **Gulianrdgd/Gulianrdgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
